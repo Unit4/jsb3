@@ -12,7 +12,7 @@ $ npm install --save-dev jsb3
 ## Usage
 
 ```js
-var jsb3 = require('./index');
+var jsb3 = require('jsb3');
 
 jsb3('testfiles/file1.jsb3').then(function (files){
 	// Do something to files array	
