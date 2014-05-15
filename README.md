@@ -5,7 +5,9 @@ jsb3 [![Build Status](https://travis-ci.org/bjornhol/jsb3.svg?branch=master)](ht
 
 ## Install
 
-Not currently published
+```bash
+$ npm install --save-dev jsb3
+```
 
 ## Usage
 
