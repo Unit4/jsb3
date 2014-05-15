@@ -1,0 +1,29 @@
+{
+  "name": "jsb3",
+  "version": "0.1.0",
+  "description": "Process a jsb3 file into an array of files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bjornhol/jsb3.git"
+  },
+  "keywords": [
+    "jsb3"
+  ],
+  "author": "Bjørn Harald Olsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjornhol/jsb3/issues"
+  },
+  "homepage": "https://github.com/bjornhol/jsb3",
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "dependencies": {
+    "q": "~1.0.1",
+    "JSONStream": "~0.8.2"
+  }
+}

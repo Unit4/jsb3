@@ -1,0 +1,32 @@
+{
+    "projectName": "Test",
+    "licenseText": "This is commercial",
+    "packages": [
+        {
+            "name": "Package1",
+            "target": "pkgs/package1.js",
+            "id": "package1",
+            "files": [
+                {
+                    "path": "../folder1/",
+                    "name": "file.txt"
+                },{
+                    "path": "../folder2",
+                    "name": "file.pdf"
+                }
+            ]
+        }
+    ],
+    "builds": [
+        {
+            "name": "All Debug",
+            "target": "proj-all-debug.js",
+            "packages": [
+                "Package1"
+            ]
+        }
+    ],
+    "resources": [
+
+    ]
+}
