@@ -1,6 +1,6 @@
 {
   "name": "jsb3",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Process a jsb3 file into an array of files",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,9 @@
     "url": "git://github.com/bjornhol/jsb3.git"
   },
   "keywords": [
-    "jsb3"
+    "jsb3",
+    "sencha",
+    "extjs"
   ],
   "author": "Bjørn Harald Olsen",
   "license": "MIT",

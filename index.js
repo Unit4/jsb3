@@ -5,7 +5,7 @@ var Q = require('q');
 var JSONStream = require('JSONStream');
 
 module.exports = function(jsb3){
-	var deferred = Q.defer(),
+    var deferred = Q.defer(),
         input = fs.createReadStream(jsb3),
         files = [];
 
