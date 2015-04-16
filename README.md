@@ -2,8 +2,8 @@
 
 Process a jsb3 file into an array of files
 
-[![Build Status][travis-image]][travis-url] 
 [![NPM Version][npm-image]][npm-url] 
+[![Build Status][travis-image]][travis-url] 
 [![Dependency Status][dependencies-image]][dependencies-url]
 
 ## Install
