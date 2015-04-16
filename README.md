@@ -1,4 +1,7 @@
-jsb3 [![Build Status](https://travis-ci.org/bjornhol/jsb3.svg?branch=master)](https://travis-ci.org/bjornhol/jsb3) [![NPM Version](http://img.shields.io/npm/v/jsb3.svg)](https://www.npmjs.org/package/jsb3) [![Dependency Status](https://david-dm.org/bjornhol/jsb3.svg)](https://david-dm.org/bjornhol/jsb3)
+jsb3 
+[![Build Status][travis-image]][travis-url] 
+[![NPM Version][npm-image]][npm-url] 
+[![Dependency Status][dependencies-image]][dependencies-url]
 ====
 
  Process a jsb3 file into an array of files
@@ -24,3 +27,10 @@ jsb3('testfiles/file1.jsb3').then(function (files){
 ## License
 
 [MIT](http://opensource.org/licenses/MIT) © [Unit4](http://www.unit4.com/)
+
+[travis-image]: https://travis-ci.org/Unit4/jsb3.svg?branch=master
+[travis-url]: https://travis-ci.org/Unit4/jsb3
+[npm-image]: http://img.shields.io/npm/v/jsb3.svg
+[npm-url]: https://www.npmjs.org/package/jsb3
+[dependencies-image]: https://david-dm.org/bjornhol/jsb3.svg
+[dependencies-url]: https://david-dm.org/bjornhol/jsb3
