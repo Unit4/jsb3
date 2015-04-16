@@ -23,4 +23,4 @@ jsb3('testfiles/file1.jsb3').then(function (files){
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT) © [Bjørn Harald Olsen](https://github.com/bjornhol)
+[MIT](http://opensource.org/licenses/MIT) © [Unit4](http://www.unit4.com/)

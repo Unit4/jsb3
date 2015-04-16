@@ -1,26 +1,28 @@
 {
   "name": "jsb3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Process a jsb3 file into an array of files",
+  "license": "MIT",
+  "author": "Bjørn Harald Olsen <bjornhol@gmail.com>",
+  "homepage": "https://github.com/unit4/jsb3",
+  "contributors": [
+  ],
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bjornhol/jsb3.git"
+    "url": "git://github.com/unit4/jsb3.git"
   },
   "keywords": [
     "jsb3",
     "sencha",
     "extjs"
-  ],
-  "author": "Bjørn Harald Olsen",
-  "license": "MIT",
+  ],  
   "bugs": {
-    "url": "https://github.com/bjornhol/jsb3/issues"
-  },
-  "homepage": "https://github.com/bjornhol/jsb3",
+    "url": "https://github.com/unit4/jsb3/issues"
+  },  
   "devDependencies": {
     "mocha": "*"
   },
