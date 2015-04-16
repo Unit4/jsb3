@@ -32,5 +32,5 @@ jsb3('testfiles/file1.jsb3').then(function (files){
 [travis-url]: https://travis-ci.org/Unit4/jsb3
 [npm-image]: http://img.shields.io/npm/v/jsb3.svg
 [npm-url]: https://www.npmjs.org/package/jsb3
-[dependencies-image]: https://david-dm.org/bjornhol/jsb3.svg
-[dependencies-url]: https://david-dm.org/bjornhol/jsb3
+[dependencies-image]: https://david-dm.org/unit4/jsb3.svg
+[dependencies-url]: https://david-dm.org/unit4/jsb3
