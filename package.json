@@ -19,15 +19,15 @@
     "jsb3",
     "sencha",
     "extjs"
-  ],  
+  ],
   "bugs": {
     "url": "https://github.com/unit4/jsb3/issues"
-  },  
+  },
   "devDependencies": {
     "mocha": "*"
   },
   "dependencies": {
-    "q": "1.1.x",
+    "q": "1.2.x",
     "JSONStream": "0.10.x"
   }
 }
