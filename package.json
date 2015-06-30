@@ -1,6 +1,6 @@
 {
   "name": "jsb3",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Process a jsb3 file into an array of files",
   "license": "MIT",
   "author": "Bjørn Harald Olsen <bjornhol@gmail.com>",
