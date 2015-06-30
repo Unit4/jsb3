@@ -27,7 +27,7 @@
     "mocha": "*"
   },
   "dependencies": {
-    "q": "1.2.x",
-    "JSONStream": "0.10.x"
+    "q": "2.0.x",
+    "JSONStream": "1.0.x"
   }
 }

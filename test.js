@@ -11,7 +11,7 @@ it('should read all files from jsb3 stream', function(cb){
         assert.strictEqual('folder2', path.dirname(files[1]));
         assert.strictEqual('file.pdf', path.basename(files[1]));        
         cb();
-    }).fail(function(message){
+    }).catch(function(message){
         assert(false, message);
         cb();
     }); 
@@ -25,7 +25,7 @@ it('should read all files from jsb3 stream with multiple projects', function(cb)
         assert.strictEqual('folder2', path.dirname(files[1]));
         assert.strictEqual('file.pdf', path.basename(files[1]));        
         cb();
-    }).fail(function(message){
+    }).catch(function(message){
         assert(false, message);
         cb();
     }); 
@@ -39,7 +39,7 @@ it('should read all files from jsb3 with trailing comma (bug compatible)', funct
         assert.strictEqual('folder2', path.dirname(files[1]));
         assert.strictEqual('file.pdf', path.basename(files[1]));        
         cb();
-    }).fail(function(message){
+    }).catch(function(message){
         assert(false, message);
         cb();
     }); 
